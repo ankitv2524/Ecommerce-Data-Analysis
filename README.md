@@ -6,7 +6,6 @@ The word commerce is the basic concept for electronic commerce, pertaining to bu
 Electronic commerce, like any other business, deals with the exchange of money for soft or hard goods and
 services.Kalakota and Whintons in 1997 defined the term E-commerce from different perspectives.
 These perspectives are:
-** 
 
 • Communication
 
@@ -15,8 +14,6 @@ These perspectives are:
 • Service
 
 • Online
-
-**
 
 **Communication Perspective:** According to this perspective, E-commerce is the delivery of information, product/services or payments over telecommunication channels, computer networks or any other electronic mode of communication. 
 
@@ -30,7 +27,7 @@ So here we Analyze the Ecommerce data sets which contains the record from 1916 t
 
 <br>
 <br>
-<p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
+<p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://upload.wikimedia.org/wikipedia/commons/f/f3/.xlsx_icon.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
 <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     o	KPI’s :-
