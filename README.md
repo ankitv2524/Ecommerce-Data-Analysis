@@ -14,7 +14,9 @@ These perspectives are:
 
 • Service
 
-• Online**
+• Online
+
+**
 
 **Communication Perspective:** According to this perspective, E-commerce is the delivery of information, product/services or payments over telecommunication channels, computer networks or any other electronic mode of communication. 
 
