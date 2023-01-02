@@ -4,19 +4,28 @@ Now in this Technology Driven world, Ecommerce Platform Plays very Important Rol
 The word commerce is the basic concept for electronic commerce, pertaining to buying and selling of goods while 
 'commercial' denotes business practice and activities intended to make profits. 
 Electronic commerce, like any other business, deals with the exchange of money for soft or hard goods and
-services.Kalakota and Whintons in 1997 defined the term E-commerce from different perspectives. These
-perspectives are:
-Communication
-•** Business Process
+services.Kalakota and Whintons in 1997 defined the term E-commerce from different perspectives.
+These perspectives are:
+** 
+
+• Communication
+
+• Business Process
+
 • Service
+
 • Online**
-**Communication Perspective:** According to this perspective, E-commerce is the delivery of information, product/services or payments 
-over telecommunication channels, computer networks or any other electronic mode of communication. 
+
+**Communication Perspective:** According to this perspective, E-commerce is the delivery of information, product/services or payments over telecommunication channels, computer networks or any other electronic mode of communication. 
+
 **Business Process Perspective:** This says that E-commerce is the application of technology towards the automation of business transactions and work flow. 
-**Service Perspective:** E-commerce is defined as a tool that addresses the desire of firms, consumers and management to cut service cost while improving 
-the quality of goods/services and increasing the speed of service delivery.
+
+**Service Perspective:** E-commerce is defined as a tool that addresses the desire of firms, consumers and management to cut service cost while improving the quality of goods/services and increasing the speed of service delivery.
+
 **Online Perspective:** E-commerce provides the capability of buying and selling products and information on the internet and other online services.
+
 So here we Analyze the Ecommerce data sets which contains the record from 1916 to 2016.
+
 <br>
 <br>
 <p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
