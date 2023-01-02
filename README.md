@@ -27,7 +27,7 @@ So here we Analyze the Ecommerce data sets which contains the record from 1916 t
 
 <br>
 <br>
-<p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://upload.wikimedia.org/wikipedia/commons/f/f3/.xlsx_icon.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
+<p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://upload.wikimedia.org/wikipedia/commons/f/f3/.xlsx_icon.svg width="48" height="48"></a></p>
 <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     o	KPI’s :-
