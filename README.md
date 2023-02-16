@@ -28,26 +28,35 @@ So here we Analyze the Ecommerce data sets which contains the record from 1916 t
 <br>
 <br>
 <p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://upload.wikimedia.org/wikipedia/commons/f/f3/.xlsx_icon.svg width="48" height="48"></a></p>
-<img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
+<img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> <h1> Analysis </h1>
    
-    o	KPI’s :-
-                o Average Duration 
-                o Gross 
-                o Average IMDB Score
-                o Count of Movies
+    o	KPI’s Having Total Values and their YOY Growth:-
+                o Sales 
+                o Profit
+                o Quantity
+                o No. Of Orders
+                o Profit Margin
+                
+    o	Showing Relation Between Profit and Sales using Combo Plot (Area + Bar Chart). 
     
-    o	Showing Relation Between Movie Duration and Gross using Scatter Plot. 
+    o	Using Waterfall chart Comapring the Profit of each Category of Products with Grand Total. 
     
-    o	Number of Movies Launched Each Year from 1916 to 2016 using line chart.  
+    o	Using Doughnut chart Comaparing Market share of each Category of Products.
     
-    o	comparing the relation of Genre - by size with IMDB Score and and Color Intensity by Gross Revenue using heat and tree map.
+    o	State Wise Sales using Map Chart.
     
-    o	Each Actors and their sum of Earning from from all the movies they workin. by using Horizontal Bar Chart  
+    o       Top Five Sub Category with their Sales Using Horizontal Bar Chart.
+    
+    o       Using Some Filters like Years, Segments, Region 
     
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
-![tableau-public](https://user-images.githubusercontent.com/106439762/178797623-924f63c6-f35a-4da1-bea6-7a3f647c18af.svg)
-![tableau-dashboard](https://user-images.githubusercontent.com/106439762/178797660-533dac49-4eef-42c3-b7bc-4fc935192582.svg)
+
+<!-- ![tableau-public](https://user-images.githubusercontent.com/106439762/178797623-924f63c6-f35a-4da1-bea6-7a3f647c18af.svg)
+![tableau-dashboard](https://user-images.githubusercontent.com/106439762/178797660-533dac49-4eef-42c3-b7bc-4fc935192582.svg) -->
+![image](https://user-images.githubusercontent.com/32640079/219302711-cac2153f-23fe-4ccb-956d-f42a925fb28f.png)
+
 <br>
+
 ## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Start
 Must begin with every sheet of tableau then in last come to sheet which present the dashboard:
     1.Every sheet of tableau represent different things like count of movies each year, gross and Imdb relation etc. with different varities of Visualization Graph.
