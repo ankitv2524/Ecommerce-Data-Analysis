@@ -57,7 +57,9 @@ The data below is an example of properly formatted data.
 
    
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
-![Screenshot 2022-08-15 at 2 16 47 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/Movie_Dashboard.png)
+![image](https://user-images.githubusercontent.com/32640079/219296137-d2f9819b-718e-4377-a353-6240bdce6466.png)
+<br>
+![image](https://user-images.githubusercontent.com/32640079/219295741-01b60a74-fc64-489f-8b13-0314cac8115a.png)
 
 ## :man: About This Project
 <b> Here Basically we analysis the data by- </b>
