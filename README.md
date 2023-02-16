@@ -114,3 +114,5 @@ Additionally, the project highlights that the company's customers are most activ
 
 Overall, the Ecommerce Data Analysis project provides valuable insights that can be used to inform the company's strategic decisions and optimize its operations to improve profitability and better serve its customers.
  </b>
+
+<h1>THANK YOU</h1>
