@@ -86,7 +86,9 @@ The data below is an example of properly formatted data.
 
 <b>To check the Actual Project Please Click on the Tableau Icon Below</b>
 
-[![Project_Link](https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png)](https://public.tableau.com/views/Project_Dashboard_16567384092800/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+<!-- [![Project_Link](https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png)](https://public.tableau.com/views/Project_Dashboard_16567384092800/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) -->
+
+[Ecommerce Sales Analysis Project Link](https://github.com/ankitv2524/Movie-Data-Analysis/files/10754265/Ecommerce.Sales.Analysis.xlsx)
 
 
 ## 🛠 Skills Learn From this Project
