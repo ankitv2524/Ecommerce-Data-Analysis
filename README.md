@@ -58,12 +58,12 @@ So here we Analyze the Ecommerce data sets which contains the record from 1916 t
 <br>
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Quick Start
-Must begin with every sheet of tableau then in last come to sheet which present the dashboard:
-    1.Every sheet of tableau represent different things like count of movies each year, gross and Imdb relation etc. with different varities of Visualization Graph.
+Must begin with every sheet of of Excell then in last come to sheet which present the dashboard:
+    1.Every sheet of Represent represent different things like Sum of Profit and Sales, Quantity, No of Orders, Profit Margin etc. with different varities of Visualization Graph.
     2.Each column of dataset holds the value for a particular category.
 The data below is an example of properly formatted data.
-![Screenshot 2022-08-15 at 2 12 34 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/image.png)
-
+<!-- ![Screenshot 2022-08-15 at 2 12 34 PM](https://raw.githubusercontent.com/ankitv2524/Movie-Data-Analysis/f65daf25b7ee89e94246bd58c2989567c4b45611/Project/image.png)
+ -->
    
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
 ![image](https://user-images.githubusercontent.com/32640079/219296137-d2f9819b-718e-4377-a353-6240bdce6466.png)
@@ -73,10 +73,11 @@ The data below is an example of properly formatted data.
 ## :man: About This Project
 <b> Here Basically we analysis the data by- </b>
 
-1. Movies by Duration and Gross Revenue
-2. No of movies Each year
-3. Genre by Revenue( A treee Map analysis)
-4. Favourite Actor with respect to their total Earnings
+1. Sales
+2. Profit
+3. Quantity
+4. No. Of Orders
+5. Profit Margin
 
 
 <!-- ## 🔗Links -->
@@ -93,20 +94,23 @@ The data below is an example of properly formatted data.
     • Analysizing Trend by closely watching the actual Data.
     
 ## ⛳ Conclusion 
-   <b> After Analyzing the above data we come to conclusion that:  </b>
+   <b> Ten lines of insight and conclusion that could be drawn from the given Ecommerce Data Analysis project: </b>
    
-    •  when Duration of Movies Increases then the Revenue also increases. 
-       It means people attraction towards movies is increased. People prefer 
-       long duration movies also.
-         
-    • In 20th century, no of movies directed by director is very less - 1, 2 or upto maximum 
-      10 each year.The People attraction toward Movies increases after 2000. and has the       
-      Highest no of movies is 260 in year 2009
-      
-     • Most of the People all around the Globe Likes Action Movies As we compare with other Genre and then Historical Movies.
-     
-     • If we check the Highest Paid Actor according to this data - 1916 to 2016 year. 
-     Then Johnny dipp is in top and then Harrison Ford in second and So on..
-     and another things we come to known that some of the actor earning is very less but they are very famous.
-     
-   <b>From above Analysis and Learning Lots of things from the Past data.  we can take a better decission in the Movie Industry to imporve more and and more for the welfare of the society </b>
+    • The sales revenue for the ecommerce company has been steadily increasing year-over-year, which suggests that the business is growing.
+    • Customers are more likely to make purchases in the months of November and December, likely due to holiday shopping.
+    • The "standard class" ship mode is the most commonly used shipping method among customers.
+    • The company's most profitable product categories are technology and office supplies, while furniture has the lowest profit margins.
+    • Customers located in the Eastern region of the country make the most purchases, while the Southern region has the lowest sales.
+    • The company's most popular sub-categories are binders and paper, while the least popular are copiers and machines.
+    • Customers in the corporate segment make the most purchases, while home office customers make the least.
+    • Discounts are used most frequently for the office supplies and furniture categories.
+    • The company experiences a significant loss in profits when discounts are applied to products, particularly in the technology category.
+    • There are several areas where the company could optimize its operations, such as by reducing discounts on technology products or increasing sales in underperforming regions.
+   <b>Based on the insights gathered from the Ecommerce Data Analysis project, it can be concluded that the ecommerce company is performing well overall, with steady sales growth year-over-year. However, there are areas where the company could improve its profitability, such as reducing discounts on technology products, optimizing shipping costs, and increasing sales in underperforming regions.
+
+The project also reveals that the company's most profitable product categories are technology and office supplies, while furniture has the lowest profit margins. This information can help the company focus its resources on its most profitable areas and adjust its pricing strategies for less profitable products.
+
+Additionally, the project highlights that the company's customers are most active during the months of November and December, indicating that the holiday season is a critical time for sales. The project also provides insights into customer behavior, such as the most commonly used shipping method and popular product sub-categories.
+
+Overall, the Ecommerce Data Analysis project provides valuable insights that can be used to inform the company's strategic decisions and optimize its operations to improve profitability and better serve its customers.
+ </b>
